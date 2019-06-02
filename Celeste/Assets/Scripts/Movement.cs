@@ -13,11 +13,11 @@ public class Movement : MonoBehaviour
 
     [Space]
     [Header("Stats")]
-    public float speed = 10;
-    public float jumpForce = 50;
-    public float slideSpeed = 5;
-    public float wallJumpLerp = 10;
-    public float dashSpeed = 20;
+    public float speed = 7f;
+    public float jumpForce = 12f;
+    public float slideSpeed = 1f;
+    public float wallJumpLerp = 5f;
+    public float dashSpeed = 40f;
 
     [Space]
     [Header("Booleans")]
